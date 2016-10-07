@@ -47,3 +47,15 @@ nav a:hover {
   background-color: #0074d9;
   color: #fff;
 }
+
+@media only screen and (min-width: 38em) {
+
+  header {
+    text-align: left;
+  }
+
+  nav ul {
+    text-align: right;
+  }
+
+}
