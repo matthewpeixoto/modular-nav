@@ -46,7 +46,7 @@ nav a {
   text-decoration: none;
 }
 
-.blue,
+.current,
 nav a:hover {
   background-color: #0074d9;
 
