@@ -24,7 +24,10 @@ body {
 
 header {
   background-color: #e2e2e2;
+}
 
+.logo,
+.nav {
   text-align: center;
 }
 
@@ -55,11 +58,11 @@ nav a:hover {
 
 @media only screen and (min-width: 38em) {
 
-  header {
+  .logo {
     text-align: left;
   }
 
-  nav ul {
+  .nav {
     text-align: right;
   }
 
