@@ -40,12 +40,14 @@ nav li {
 
 nav a {
   display: inline-block;
+  padding: 0.5em 0.75em;
 
   color: #0074d9;
   text-decoration: none;
 }
 
-.blue, a:hover {
+.blue,
+nav a:hover {
   background-color: #0074d9;
   color: #fff;
 }
