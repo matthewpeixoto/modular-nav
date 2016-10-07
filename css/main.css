@@ -10,8 +10,38 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #e2e2e2;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a {
+  display: inline-block;
+
+  color: #0074d9;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #0074d9;
+  color: #fff;
 }
