@@ -42,10 +42,10 @@ nav li {
 }
 
 nav a {
-
   color: #0074d9;
   text-decoration: none;
 }
+
 
 .current,
 nav a:hover {
