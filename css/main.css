@@ -31,9 +31,8 @@ header {
   text-align: center;
 }
 
-nav ul {
+.nav {
   padding: 0;
-  margin: 0;
 
   list-style-type: none;
 }
